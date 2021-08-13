@@ -1,4 +1,4 @@
-# machine-learning-challenge
+# Machine Learning Analysis
 
 About the Data:
 
